@@ -1,4 +1,4 @@
-#*Additional Notes:*#
+*Additional Notes:*
 
 The file size is too big to upload the full project.
 Full project is available in my G-Drive:
